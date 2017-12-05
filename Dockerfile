@@ -12,4 +12,4 @@ WORKDIR /etc/inwecrypto/marketgo
 
 EXPOSE 8000
 
-CMD ["/go/bin/nos","--conf","/etc/inwecrypto/marketgo/marketgo.json"]
+CMD ["/go/bin/marketgo","--conf","/etc/inwecrypto/marketgo/marketgo.json"]
