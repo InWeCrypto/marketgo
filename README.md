@@ -1,2 +1,2 @@
 # marketgo
-micoservice for enhance  market data query
+micoservice to enhance  market data query
